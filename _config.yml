@@ -1,7 +1,7 @@
 github:
   is_project_page: false
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 
 title: [Scrum Guides]
 description: [The official Scrum Guide is in English. Together we can create our community editions!]
