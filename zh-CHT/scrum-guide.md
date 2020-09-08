@@ -1,6 +1,10 @@
 # **Scrum 指南™**
 
-此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) 翻譯的
+*   此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) 翻譯的
+*   🚨 現在的翻譯有 [3 個翻譯上的問題](https://github.com/ToastedIceCream/scrumguides.github.io/issues?q=is%3Aissue+is%3Aopen+Traditional) , e.g.
+    *   "Informal Meeting" 被翻譯成 正式但輕鬆的會議 ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/2)
+    *   "Commitment" 被翻譯成 “承擔" ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/3) 其他文獻翻譯成 承諾
+    *   “Iterative and Incremental" 被翻譯成 "迭代和漸進式" 和 “迭代和逐步 Increment” ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/4)
 
 # Scrum 指南的目的
 
@@ -63,7 +67,7 @@ Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經�
 
 Scrum 的成員必須經常檢視 Scrum 的產出物和 Sprint 目標的進度來檢測意料之外的變數。他們的檢視不應該頻繁到會阻礙工作的進行。最有效益的檢視方式，是由盡職且擁有技能的檢視者在工作的當下進行。
 
-### 調適性
+### 調適性 
 
 如果檢視者判斷流程中的某些部分超出了可以接受的範圍，且會造成產品不被接受，就必須調整當下的流程或使用材料。調整必需越快越好來減少未來更多的偏差。
 
