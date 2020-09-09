@@ -1,6 +1,6 @@
 # **Scrum 指南™**
 
-*   此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) 翻譯的
+*   此HTML版本的Scrum指南是根據2017年11月版本的英文版[Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 翻譯的
 *   🚨 現在的翻譯有 [3 個翻譯上的問題](https://github.com/ToastedIceCream/scrumguides.github.io/issues?q=is%3Aissue+is%3Aopen+Traditional) , e.g.
     *   "Informal Meeting" 被翻譯成 正式但輕鬆的會議 ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/2)
     *   "Commitment" 被翻譯成 “承擔" ([link)](https://github.com/ToastedIceCream/scrumguides.github.io/issues/3) 其他文獻翻譯成 承諾
