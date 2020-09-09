@@ -67,7 +67,7 @@ Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經�
 
 Scrum 的成員必須經常檢視 Scrum 的產出物和 Sprint 目標的進度來檢測意料之外的變數。他們的檢視不應該頻繁到會阻礙工作的進行。最有效益的檢視方式，是由盡職且擁有技能的檢視者在工作的當下進行。
 
-### 調適性 
+### 調適性
 
 如果檢視者判斷流程中的某些部分超出了可以接受的範圍，且會造成產品不被接受，就必須調整當下的流程或使用材料。調整必需越快越好來減少未來更多的偏差。
 
@@ -124,7 +124,7 @@ Development Team 有以下的特性：
 *   Scrum 認為 Development Team 中沒有小團隊，不管需要解決的是什麼領域，如測 試，架構，營運或商業分析；和
 *   Development Team members 雖然可能各自有專精的技能和領域，但仍是由 Development Team 整體來當責。
 
-### Development Team 的大小
+#### Development Team 的大小
 
 最理想的 Development Team 大小，是小到足夠靈活而且大到能夠完成 Sprint 內重大的工 作。少於三個人的 Development Team member 之間的互動會減少，以至於只能提升小部分 的生產力。小一點的 Development Team 可能會在 Sprint 中遇到技能的限制，使得 Development Team 無法交付潛在可發佈的產品 Increment。如果成員多過九個人則會造成 太多的協調。大的 Development Teams 產生太多的複雜性，而使得經驗導向的流程沒辦法 那麼有效。Product Owner 和 Scrum Master 的角色並不包含在 Development Team 人數中， 除非他們也執行 Sprint Backlog 上的工作。
 
