@@ -48,13 +48,13 @@ Scrum 的精華在於小型的團隊。每個團隊都具有高度彈性和調�
 
 當 Scrum Guide 中使用「開發 （develop）」這個字的時候，指的是從事複雜的工作，如上面所陳述到的那些類型。
 
-## Scrum 的理論
+# Scrum 的理論
 
 Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經驗主義立論於知識來自於經驗和依照已知的資訊來下判斷。Scrum 使用迭代和逐步 Increment 的方式，來最大化可預測性和控制風險。
 
 有三根支柱支撐了所有經驗導向的流程控制的實行：透明性，檢視性，調適性。
 
-### 透明性
+## 透明性
 
 負責產生成果的人員必須清晰地看見流程中重要的部分，這些部分被共同的標準來定義，所以觀看的人能得到一致的認知，這就是透明性。
 
@@ -63,11 +63,11 @@ Scrum 是立基於經驗導向的流程控制理論，或是經驗主義。經�
 *   所有的參與者對該流程都有共同的語言；以及
 *   真正執行的人員和檢視 Increment 成果的人員，需要對「完成」之定義，有一個共同的認知。
 
-### 檢視性
+## 檢視性
 
 Scrum 的成員必須經常檢視 Scrum 的產出物和 Sprint 目標的進度來檢測意料之外的變數。他們的檢視不應該頻繁到會阻礙工作的進行。最有效益的檢視方式，是由盡職且擁有技能的檢視者在工作的當下進行。
 
-### 調適性
+## 調適性
 
 如果檢視者判斷流程中的某些部分超出了可以接受的範圍，且會造成產品不被接受，就必須調整當下的流程或使用材料。調整必需越快越好來減少未來更多的偏差。
 
@@ -78,19 +78,19 @@ Scrum 的成員必須經常檢視 Scrum 的產出物和 Sprint 目標的進度�
 *   Sprint Review
 *   Sprint Retrospective
 
-## Scrum 價值觀
+# Scrum 價值觀
 
 當 Scrum Team 體現和活化承擔，勇氣，專注，開放和尊重這五種價值觀時，Scrum 的三 根支柱：透明性，檢視性，調適性就會出現並幫助大家建立信任。隨著 Scrum Team 成員 從事 Scrum 角色，活動和產出物的過程中，他們就會學習和探索這些價值。
 
 要成功運用 Scrum 取決於成員是否精通並融入這五個價值。成員個人承諾會達到 Scrum Team 的目標，Scrum Team members 有勇氣做對的事情和處理艱難的問題，每個人專注在 Sprint 的工作和 Scrum Team 的目標上，Scrum Team 和利害關係人同意對工作和工作上的 挑戰保持開放的心態，Scrum Team members 互相尊重對方是有能力和獨立的人。
 
-## The Scrum Team
+# The Scrum Team
 
 Scrum Team 由 Product Owner，Development Team 和一位 Scrum Master 組成。Scrum Teams 是一個自我組織和跨職能的團隊。自我組織的團隊會自行選擇最好的方式來完成工 作，而不是被團隊外的人指示如何做。跨職能的團隊不需依靠非團隊成員而擁有所有完成 工作所必備的能力。Scrum 中的團隊模式是設計用來將彈性，創意，和生產力最大化。 Scrum Team 必須證明自己在前述的情況和錯綜複雜的工作中越來越有效。
 
 Scrum Teams 用迭代和逐步 Increment 的方式交付產品，將回饋的機會最大化。用逐步 Increment 的方式交付「完成」的產品，可以確保一直提供一個潛在可用的產品版本。
 
-### The Product Owner
+## The Product Owner
 
 Product Owner 負責將產品的價值最大化，而價值來自於 Development Team 的工作成果。 如何做到這點可能在每個組織，Scrum Teams，或個人，都差異很大。
 
@@ -110,7 +110,7 @@ Product Owner 是由一個人來擔任，而不是一個委員會。Product Owne
 
 要讓 Product Owner 成功，整個組織必須尊重他/她的決定。Product Owner 對於 Product Backlog 內容和順序之決定是透明的，沒有人可以強迫 Development Team 做 Product backlog 以外的需求。
 
-### The Development Team
+## The Development Team
 
 Development Team 由一群專業人士組成，他們可以在每個 Sprint 結束時交付「完成」潛在 可發佈的產品 Increment。「完成」的產品 Increment 必須在 Sprint Review 上呈現。只有 Development Team 的成員可以產生產品 Increment。
 
@@ -124,15 +124,15 @@ Development Team 有以下的特性：
 *   Scrum 認為 Development Team 中沒有小團隊，不管需要解決的是什麼領域，如測 試，架構，營運或商業分析；和
 *   Development Team members 雖然可能各自有專精的技能和領域，但仍是由 Development Team 整體來當責。
 
-#### Development Team 的大小
+### Development Team 的大小
 
 最理想的 Development Team 大小，是小到足夠靈活而且大到能夠完成 Sprint 內重大的工 作。少於三個人的 Development Team member 之間的互動會減少，以至於只能提升小部分 的生產力。小一點的 Development Team 可能會在 Sprint 中遇到技能的限制，使得 Development Team 無法交付潛在可發佈的產品 Increment。如果成員多過九個人則會造成 太多的協調。大的 Development Teams 產生太多的複雜性，而使得經驗導向的流程沒辦法 那麼有效。Product Owner 和 Scrum Master 的角色並不包含在 Development Team 人數中， 除非他們也執行 Sprint Backlog 上的工作。
 
-### The Scrum Master
+## The Scrum Master
 
 Scrum Master 依照 Scrum 指南中的遊戲規則來負責推廣和支持 Scrum。Scrum Master 幫助 每個人了解 Scrum 的理論，實務，規則和價值觀，來達成推動 Scrum。 對於 Scrum Team 來說，Scrum Master 是一個僕人式的領導。Scrum Master 幫助 Scrum Team 外的人了解哪些與 Scrum Team 之間的互動是有幫助的，而哪些是沒有幫助的。 Scrum Master 幫助每個人改變這些互動的方式，讓 Scrum Team 產生的價值能夠最大化。
 
-#### Scrum Master Service to the Product Owner
+### Scrum Master Service to the Product Owner
 
 Scrum Master 對 Product Owner 提供多方面的服務，包含：
 
@@ -144,7 +144,7 @@ Scrum Master 對 Product Owner 提供多方面的服務，包含：
 *   理解和實踐敏捷；與
 *   當需要或被要求時，引導 Scrum 活動的進行。
 
-#### Scrum Master Service to the Development Team
+### Scrum Master Service to the Development Team
 
 Scrum Master 對 Development Team 提供多方面的服務，包含：
 
@@ -154,7 +154,7 @@ Scrum Master 對 Development Team 提供多方面的服務，包含：
 *   當需要或被要求時，引導 Scrum 活動的進行；與
 *   在組織環境還沒有完全採用與理解 Scrum 的情況下，作為教練指導 Development Team。
 
-#### Scrum Master Service to the Organization
+### Scrum Master Service to the Organization
 
 Scrum Master 對組織提供多方面的服務，包含：
 
@@ -164,13 +164,13 @@ Scrum Master 對組織提供多方面的服務，包含：
 *   造成改變來增加 Scrum Team 的生產力；
 *   與其他 Scrum Master 一起合作來加強組織內 Scrum 應用的有效性。
 
-## Scrum 的活動
+# Scrum 的活動
 
 Scrum 規定了幾項活動來創造規律性，以此來減少其它 Scrum 未定義的會議。這些活動都 是有時間盒限制的，也就是在某個時間長度內必須要完成。當 Sprint 開始，Sprint 的長度 就固定下來了，不可以縮短或是延長。剩下的活動在達成其目的後就可以結束了，以確保 在過程中只使用了適當的時間而不會造成流程中的浪費。 Sprint 本身包含了其他的活動，
 
 除了 Sprint 本身之外，每次活動都是用來檢視與調適某些 事情的正式機會，這些活動都是特別設計來促成嚴格的透明性與檢驗性。遺漏其中的任何 一種活動可能導致透明性降低，檢視和調適的機會變少。
 
-### The Sprint
+## The Sprint
 
 Scrum 的核心是 Sprint，Sprint 是一個月或更短的時間盒。在 Sprint 內，會產出「完成」的， 可用的，潛在可發佈的產品 Increment。Sprint 長度在整個開發過程中都是固定的，前一個 Sprint 結束後，下一個新的 Sprint 立刻接著開始。
 
@@ -186,7 +186,7 @@ Sprint 包括了 Sprint Planning，Daily Scrums，開發工作，Sprint Review �
 
 Sprint 被限制在一個月內，當 Sprint 時間拉的太長時，現在正在打造的東西的定義可能會 發生改變，而其複雜性也許會增加，導致風險上升，Sprint 藉由至少一個月一次的檢視與 調適 Sprint 目標進度來達成可預期性，也因此，Sprint 便可將成本風險限制在一個月內。
 
-#### 取消 Sprint
+### 取消 Sprint
 
 Sprint 可在時間盒限制結束前取消，但只有 Product Owner 有取消 Sprint 的權力，雖然 Product Owner 的這個決定可能是來自於利害關係人，Development Team 或是 Scrum Master 的影響。
 
@@ -196,7 +196,7 @@ Sprint 可在時間盒限制結束前取消，但只有 Product Owner 有取消 
 
 取消 Sprint 會消耗資源，因為要在新的 Sprint Planning 把每個人集合起來，重新開始新的 Sprint，Sprint 的取消會對 Scrum Team 造成重大傷害，所以並不常發生。
 
-### Sprint Planning
+## Sprint Planning
 
 Sprint 內要做的事會在 Sprint Planning 中來訂定。工作計劃是由整個 Scrum Team 協同合作 來制定的。
 
@@ -207,7 +207,7 @@ Sprint Planning 回答以下問題：
 *   這次 Sprint 可以發佈什麼樣的 Increment？
 *   如何做才能夠達成 Increment？
 
-#### 第一個討論題目：這次 Sprint 能做出什麼？
+### 第一個討論題目：這次 Sprint 能做出什麼？
 
 Development Team 預測在這次 Sprint 內能開發出什麼功能。Product Owner 討論這次 Sprint 所應該達成的目標，以及完成哪些 Product Backlog items 可以達成這個目標。整個 Scrum Team 協同合作來了解 Sprint 要做的工作。
 
@@ -215,7 +215,7 @@ Development Team 預測在這次 Sprint 內能開發出什麼功能。Product Ow
 
 在 Sprint Planning 中 Scrum Team 同時草擬本次的 Sprint 目標。Sprint 目標經由實作 Product Backlog 來達成，同時指引 Development Team 知道為何要做這次的 Increment。
 
-#### 第二個討論題目：如何完成所選的工作？
+### 第二個討論題目：如何完成所選的工作？
 
 在設定 Sprint 目標與選出 Product Backlog Items 之後，Development Team 決定如何在這次 Sprint 內，建造這個功能來做出一個「完成」的產品 Increment。Sprint Backlog 指的是：這 次 Sprint 所選的 Product Backlog items 加上如何交付它們的計劃。
 
@@ -225,13 +225,13 @@ Product Owner 能夠幫助釐清所選定的 Product Backlog items 以及做出�
 
 在 Sprint Planning 結束之際，Development Team 應該能夠解釋給 Product Owner 以及 Scrum Master，他們要如何自我組織來完成 Sprint 目標以及開發出預定的 Increment。
 
-#### Sprint 目標
+### Sprint 目標
 
 Sprint 目標是實作 Product backlog 過程中所必須達到的目的。它指引 Development Team 爲 什麼要做這個 Increment。Sprint 目標是在 Sprint Planning 中產生的。對於在 Sprint 內要實 作的功能，Sprint 目標提供了 Development Team 要實作哪些功能的彈性。這些被選定的 Product Backlog items 提供一個連貫的功能，而這個功能即可成為 Sprint 目標。Sprint 目標 也可以是任何有連貫性的工作，這些工作讓 Development Team 一起合作，而不是讓他們 各自做各自的。
 
 當 Development Team 工作時會牢記 Sprint 目標。Development Team 會實作出需要的功能 和工藝來達到 Sprint 目標。如果要做的事情和 Development Team 預期的不同，他們會跟 Product Owner 協同合作來溝通商量本次 Sprint Backlog 之範圍。
 
-### Daily Scrum
+## Daily Scrum
 
 Daily Scrum 是一個針對 Development Team 的活動，其時間盒限制是 15 分鐘，此會議在 Sprint 期間內每日召開。在這個會議裡，Development Team 會規劃未來 24 小時的工作。 透過檢視前次 Daily Scrum 後的工作及展望接下來的 Sprint 工作，將會逐步優化團隊協同合 作和表現。Daily Scrum 在同一時間與地點舉行來降低其複雜性。
 
@@ -251,7 +251,7 @@ Daily Scrum 是 Development Team 的內部會議。 如果有其他人在場，S
 
 Daily Scrums 改善溝通品質，淘汰其他會議，發現並移除開發上的障礙，突顯及促進快速 決策，還有提升 Development Team 的知識水平。 這是一個用來做為檢視和調適的重要關 鍵會議。
 
-### Sprint Review
+## Sprint Review
 
 Sprint Review 是在 Sprint 結束時舉行，目的是檢視 Increment 以及在必要時調適 Product Backlog。在 Sprint Review 中，Scrum Team 和利害關係人一起協同合作檢視在 Sprint 中所 完成的事項。依照這些事項和在 Sprint 過程中 Product Backlog 的變動，參與者一起協同合 作討論接下來能做完哪些最有價值的事情。這是一個正式但輕鬆的會議，並不是一個進度 回報的會議，關於 Increment 的展示是為了引發意見的反饋和提升協同合作。
 
@@ -270,7 +270,7 @@ Sprint Review 包含以下要件：
 
 Sprint Review 的結果，是一個修正過的 Product backlog ，在清單中定義了在下個 Sprint 可 能會做的 Product Backlog items。 Product backlog 亦可以調整來因應新的機會。
 
-### Sprint Retrospective
+## Sprint Retrospective
 
 Sprint Retrospective 提供 Scrum Team 一個自我檢視的機會，並建立一個改進計劃以便在下 一個 Sprint 中落實。
 
@@ -288,11 +288,11 @@ Scrum Master 鼓勵 Scrum Team 在 Scrum 流程框架內改善其開發流程和
 
 在 Sprint Retrospective 結束之際，Scrum Team 應該已經確定了在下一個 Sprint 中要實施改 善的地方。 在下一個 Sprint 中執行這些改善，即是 Scrum Team 在自我檢驗後的調適。雖 然改善可能在任何時間點落實，但 Sprint Retrospective 提供了一個正式的機會來專注在檢 視與調適上。
 
-## Scrum 產出物
+# Scrum 產出物
 
 Scrum 的產出物代表了工作或價值，用以提供透明化以及檢視和調適的機會。 Scrum 所定 義的產出物是專門設計用於讓關鍵資訊有最大的透明性，以便每個人對該產出物有相同的 理解。
 
-### Product Backlog
+## Product Backlog
 
 Product Backlog 是產品所有已知需求的排序表。它是對產品進行任何更改的唯一需求來源。Product Owner 對 Product backlog 負責，包含其內容，可取得性和排序。
 
@@ -312,13 +312,13 @@ Backlog items 的細節進行協同合作。在 Product backlog 精煉的過程�
 
 Development Team 負責所有的估計。Product Owner 也許可以經由幫助 Development Team 了解以及選擇取捨來影響他們，然而還是要由實際做事的人來決定最終的預估。
 
-#### 監測達成目標的進度
+### 監測達成目標的進度
 
 在任何時候，用來達成目標的所有剩餘工作量都能夠被加總。Product Owner 至少在每次的 Sprint Reviews 中追蹤剩餘的工作量。Product Owner 將這次的剩餘工作量與之前做比較，進而評估預定的工作進度，是否能在期望時間內達成目標。這些資訊對所有的利害關係人都是透明公開的。
 
 可以用各種不同關於趨勢走向的實務來預測進度，譬如：燃盡圖，燃起圖或累積流量圖。這些工具被證實是有用的，然而它們並不能用來取代經驗主義的重要性。在錯綜複雜的環境中，會發生什麼事是未知的。已經發生的事情，才能用來當做前瞻的決策的參考依據。
 
-### Sprint Backlog
+## Sprint Backlog
 
 Sprint Backlog 是一組在這次 Sprint 要執行的 Product Backlog items 加上如何交付產品 Increment 和達到 Sprint 目標的計劃。 Sprint Backlog 是 Development Team 對下一個 Increment 中所需要的功能以及將該功能轉換到「完成」Increment 所需工作的預測。
 
@@ -328,17 +328,17 @@ Sprint Backlog 是一個具有足夠細節的計劃，使得在 Daily Scrum 中�
 
 當需要有新的工作時，Development Team 便將其加到 Sprint Backlog 內。 隨著工作的進展或完成，團隊會去更新預估的剩餘工作量。當計劃內的某些部份被認定是不需要的，這些部分就會被移除。只有 Development Team 才能在 Sprint 期間內更改 Sprint Backlog。 Sprint Backlog 是 Development Team 在 Sprint 內計畫完成的工作，是一個可視性高且即時的工作畫面，且只屬於 Development Team 所擁有。
 
-#### 監督 Sprint 的進度
+### 監督 Sprint 的進度
 
 在 Sprint 的任何時間點都可以加總在 Sprint Backlog 內剩餘的總工作量。 Development Team 至少在 Daily Scrum 追蹤剩餘工作的總和，以預測達成本次 Sprint 目標的可能性。Development Team 可以藉由追蹤 Sprint 的剩餘工作來管理本身的進度。
 
-### Increment
+## Increment
 
 Increment 是指在 Sprint 期間內完成的所有 Product Backlog items，以及所有先前 Sprint Increment 的價值總和。在 Sprint 的最後，新的 Increment 必須是「完成」的，這意味著它必須是可用的狀態，並符合 Scrum Team 對於「完成」之定義。在 Sprint 結束時，
 
 Increment 是一種可檢視，完成的工作實體，並可支持經驗主義。向願景或目標邁出更前進的一步。 無論 Product Owner 是否決定將其發佈，Increment 都必須是處於可用的狀態。
 
-## 產出物透明性
+# 產出物透明性
 
 Scrum 建立在透明性上，基於對產出物的理解做出把價值最佳化和控管風險的決策。在產出物完全透明的情況下，這些決定才會有可靠的基礎。 而當產出物沒有達到完全透明，可能會做出有瑕疵的決定，進而減低了價值，增加了風險。
 
@@ -346,7 +346,7 @@ Scrum Master 必須與 Product Owner，Development Team，和其它相關人員�
 
 Scrum Master 的工作是與 Scrum Team 和組織合作來提高產出物的透明性。 這項工作通常涉及學習，使人信服和改變。 透明性不會在一夜之間發生，然而它是一條道路。
 
-### 「完成」之定義
+## 「完成」之定義
 
 當一個 Product Backlog item 或者 Increment 被描述為「完成」時，每個人都必須了解什麼是「完成」之定義。 雖然這會隨著 Scrum Team 的不同而有很大的差異，但成員們必須對什麼叫做工作完成有共識，如此才能確保透明性。 這就是 Scrum Team 對「完成」之定義，並且用它來評估產品 Increment 上的工作是否完成。
 
@@ -360,17 +360,17 @@ Development Team 在每個 Sprint 交付產品功能的 Increment。 這個 Incr
 
 隨著 Scrum Teams 的成熟，可以被預期的是，他們對「完成」之定義將擴大到包含更多更嚴謹的標準以達到更高的品質。當使用了新的定義，可能會發現一些之前已「完成」的 Increment 需要更多的工作。 任何一個產品或系統都應該有一個「完成」之定義，作為工作的標準。
 
-## 結語
+# 結語
 
 經由此指南提供 Scrum 知識，Scrum 同時也是免費的。Scrum 的角色，活動，產出物和規則都是不能改變的，雖然實施部分的 Scrum 是可能的，但結果並不是 Scrum。Scrum 只有在完整的時候才會存在，也才能有效的成為其他技巧，方法論，和實務發揮的運作舞臺。
 
-## 致謝
+# 致謝
 
-### People
+## People
 
 在對 Scrum 有所貢獻的眾人當中，我們應該要指出在一開始提供幫助的人們：Jeff Sutherland 以及與他一起工作的 Jeff McKenna 和 John Scumniotales，還有 Ken Schwaber 以及與他一起工作的 Mike Smith 和 Chris Martin，還有他們一起工作的成果，更多的其它人在隨後許多年的貢獻，如果沒有這些人的幫 助，Scrum 將不會如同今天這般詳盡。
 
-### History
+## History
 
 Ken Schwaber 和 Jeff Sutherland 一起開發 Scrum，直到 1995 年他們在 OOPSLA 大會上共同發表 Scrum。這場演講本質上記錄了 Ken 和 Jeff 過去幾年的學習和成長，也正式公佈了 Scrum 的定義。
 
@@ -378,7 +378,7 @@ Scrum 的歷史在其他地方也有記載。我們對於那些首先嘗試的�
 
 Scrum 指南記錄了 Jeff Sutherland 和 Ken Schwaber 在二十多年間對 Scrum 的發展，進化，和維護。其他的資源會提供你模式，流程，和洞察，讓 Scrum 框架更完整。這些最終的結果可能會增加生產力，價值觀，創意，和滿意度。
 
-### 致謝繁體中文譯者
+## 致謝繁體中文譯者
 
 *   [2017 10月Scrum 指南™ 繁體中文版](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf)  
     譯者: Finn YuYu Chang (張裕宇)、Terry Wang (王泰瑞)、Andrew Lin (林偉弘)
