@@ -1,0 +1,4 @@
+[submodule "zh-CHT"]
+	path = zh-CHT
+	url = git@github.com:ToastedIceCream/zh-CHT.ScrumGuides.github.io.git
+	branch = master
