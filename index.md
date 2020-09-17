@@ -10,5 +10,5 @@
 
 | Language | [ISO Code](https://docs.sdl.com/792152/106035/sdl-web-8-5/languages-and-iso-codes) | Name |
 | --- | --- | --- |
-| Chinese (Simplified) | zh-CHS | [简体中文 Scrum 指南](/zh-CHS/index.md) |
-| Chinese (Traditional) | zh-CHT | [繁體中文 Scrum 指南](/zh-CHT/index.md) |
+| Chinese (Simplified) | zh-CHS | [简体中文 Scrum 指南](https://zh-cht.scrumguides.guru) |
+| Chinese (Traditional) | zh-CHT | [繁體中文 Scrum 指南](https://zh-chs.scrumguides.guru) |
