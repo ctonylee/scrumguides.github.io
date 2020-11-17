@@ -5,10 +5,10 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled:     true
-  
+
 theme: jekyll-theme-cayman
 
-title: [Scrum Guides]
+title: [Scrum Guides: Community Translations]
 description: [The official Scrum Guide is in English. Together we can create our community editions!]
 show_downloads: false
 google_analytics: UA-177167416-1
