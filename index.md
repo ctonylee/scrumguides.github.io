@@ -1,5 +1,9 @@
-# Official Scrum Guide is in English 
-... by Ken Schwaber & Jeff Sutherland https://www.scrumguides.org/
+---
+title: {{ site.title }} 
+---
+
+## The official Scrum Guide is by Ken Schwaber & Jeff Sutherland
+https://www.scrumguides.org/
 
 * English (November 2017) : [HTML](https://www.scrumguides.org/scrum-guide.html), [PDF](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf)
   *  Other community translations can be found at [www.scrumguides.org](https://www.scrumguides.org/download.html)
