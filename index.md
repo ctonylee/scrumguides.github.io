@@ -1,5 +1,6 @@
 ---
-title: {{ site.title }} 
+title: Scrum Guides Community Translations
+description: Together we create our community editions to share the knowledge.
 ---
 
 ## The official Scrum Guide is by Ken Schwaber & Jeff Sutherland

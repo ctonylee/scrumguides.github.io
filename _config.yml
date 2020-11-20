@@ -3,6 +3,8 @@ github:
 
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+
 relative_links:
   enabled:     true
 
@@ -12,3 +14,9 @@ title: [Scrum Guides Community Translations]
 description: [Together we create our community editions to share the knowledge.]
 show_downloads: false
 google_analytics: UA-177167416-1
+
+facebook:
+  app_id: 734176127193250
+twitter:
+  username: ToastedIceCream
+  card: summary
