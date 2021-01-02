@@ -9,10 +9,6 @@ description: Together we create our community editions to share the knowledge.
 
 ## Community Translations
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=1415709141862803&autoLogAppEvents=1" nonce="gZHS9kEM"></script>
-<div class="fb-like" data-href="https://www.scrumguides.guru/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
-
 {:.callout}
 * Chinese (Simplified) <br/> [2020 简体中文 Scrum 指南](https://zh-chs.scrumguides.guru) 
 * Chinese (Traditional) <br/> [2020 繁體中文 Scrum 指南](https://zh-cht.scrumguides.guru) 
